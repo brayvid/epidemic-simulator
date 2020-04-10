@@ -43,3 +43,7 @@
 <p>
   
 5. Repeat steps 3 and 4 as desired.</p>
+
+
+<h4>Sample output</h4>
+![plot_1586539320.png](sample_output/plot_1586539320.png?raw=true)
