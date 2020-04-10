@@ -46,4 +46,4 @@
 
 
 <h4>Sample output</h4>
-![plot_1586539320.png](sample_output/plot_1586539320.png?raw=true)
+<img src="https://raw.githubusercontent.com/brayvid/EpidemicSimulator/master/sample_output/plot_1586539320.png">
