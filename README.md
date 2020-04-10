@@ -21,7 +21,7 @@
 
 <p>
 
-- One PNG file with two figures: a stackplot depicting the expected state of the population at each timestep, and a graph of the expected rate of change of infections (with error bounds of $\pm$ one standard deviation).<p>
+- One PNG file with two figures: a stackplot depicting the expected state of the population at each timestep, and a graph of the expected rate of change of infections (with error bounds of +/- one standard deviation).<p>
 
 <h4>Usage:</h4>
 <p>
