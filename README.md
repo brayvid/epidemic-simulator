@@ -2,7 +2,7 @@
 
 <h3>WARNING: This program is not a reliable source of epidemiological information.</h3>
 
-<h4>Description:<h4>
+<h4>Description:</h4>
 <p>Simulates a disease spreading through a community in random motion. Individuals are represented as points undergoing independent random walks in a bounded 2D environment. Parameters include: the population size, the average population density, the number of times to evolve the system, the number of trials to conduct, and the fraction of the available space that individuals will traverse each timestep (which amounts to their speed). After a randomly-chosen period of time within a given range, infected individuals either recover or die. The probability of death varies by age group:</p>
 <p>
 
@@ -23,7 +23,7 @@
 
 - One PNG file with two figures: a stackplot depicting the expected state of the population at each timestep, and a graph of the expected rate of change of infections (with error bounds of $\pm$ one standard deviation).<p>
 
-<h4>Usage:<h4>
+<h4>Usage:</h4>
 <p>
   
 1. Save your own copy of this notebook to your Google Drive (once in the Colab environment) by selecting File (next to Colab logo at top left) --> Save a copy in Drive.</p>
