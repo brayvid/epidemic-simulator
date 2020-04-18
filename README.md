@@ -46,4 +46,4 @@
 
 
 <h4>Sample output</h4>
-<img src="https://raw.githubusercontent.com/brayvid/EpidemicSimulator/master/sample_output/plot_1586539320.png">
+<img src="https://raw.githubusercontent.com/brayvid/EpidemicSimulator/master/sample_output/plot_1587209622.png">
