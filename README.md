@@ -1,4 +1,6 @@
 <h1>Epidemic Simulator</h1>
+<a href="https://colab.research.google.com/github/brayvid/EpidemicSimulator/blob/master/epidemic_simulator.ipynb" rel="Open in Colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" /></a>
+
 
 <h3>WARNING: This program is not a reliable source of epidemiological information.</h3>
 
@@ -11,9 +13,6 @@
 
 - <a href="https://newyork.areaconnect.com/statistics.htm">https://newyork.areaconnect.com/statistics.htm</a> (age distribution for New York City)</p>
   
- 
-<a href="https://colab.research.google.com/github/brayvid/EpidemicSimulator/blob/master/epidemic_simulator.ipynb">Open in Colaboratory Playground</a>
-
 <h4>Outputs:</h4>
 <p>
   
